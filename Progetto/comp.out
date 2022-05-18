@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# init compilazione client
+
+  # init compilazione libreria grafica
+    cd client/libs/graphics;
+    gcc -c graphics.c;
+  # end compilazione libreria grafica
+
+  # init compilazione src client
+    cd ..; cd ..; cd src;
+    gcc -o client.out client.c ../libs/graphics/graphics.o -pthread;
+  # end compilazione src client
+
+# end compilazione client
+
+
+
+# init compilazione client
+
+  # init compilazione libreria grafica
+    cd ..; cd ..; cd server/libs/graphics;
+    gcc -c graphics.c;
+  # end compilazione libreria grafica
+
+  # init compilazione libreria sessione
+    cd ..; cd ..; cd libs/session;
+    gcc -c session.c;
+  # end compilazione libreria sessione
+
+  # init compilazione libreria cltinf
+    cd ..; cd ..; cd libs/cltinf;
+    gcc -c clientinfo.c;
+  # end compilazione libreria grafica
+
+  # init compilazione src server
+    cd ..; cd ..; cd src;
+    gcc -o server.out server.c ../libs/session/session.o ../libs/cltinf/clientinfo.o ../libs/graphics/graphics.o -pthread;
+  # end compilazione src client
+
+# end compilazione client

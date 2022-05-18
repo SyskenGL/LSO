@@ -1,0 +1,36 @@
+﻿                 __    ____   __     ____  _  _  ____     ___   __   _  _  ____
+                 (  )  / ___) /  \   (_  _)/ )( \(  __)   / __) / _\ ( \/ )(  __)
+ ╔═════════════  / (_/\\___ \( O  )    )(  ) __ ( ) _)   ( (_ \/    \/ \/ \ ) _)  ═════════════╗
+ │               \____/(____/ \__/    (__) \_)(_/(____)   \___/\_/\_/\_)(_/(____)              │
+ │                                                                                             │
+ │    ╔═════════════════════════[00:00]═════════════════════════╗   ╔════════[0/5]════════╗    │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│   │                     │    │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│   │                     │    │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│   │                     │    │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│   │                     │    │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│   │                     │    │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│   ╚═════════════════════╝    │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│                              │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│                              │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│                              │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│                              │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│                              │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│                              │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│                              │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│                              │
+ │    │xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx│                              │
+ │    ╚═════════════════════════════════════════════════════════╝                              │
+ │                                                                                             │
+ │    ╔═══════════════════════════════════════════════════════════════════════════════════╗    │
+ │    │                                                                                   │    │
+ │    │                                                                                   │    │
+ │    │                                                                                   │    │
+ │    │                                                                                   │    │
+ │    │                                                                                   │    │
+ │    │                                                                                   │    │
+ │    │                                                                                   │    │
+ │    ╠═══════════════════════════════════════════════════════════════════════════════════╣    │
+ │    │ Write:                                                                            │    │
+ │    ╚═══════════════════════════════════════════════════════════════════════════════════╝    │
+ │                                                                                             │
+ ╚═════════════════════════════════════════════════════════════════════════════════════════════╝
